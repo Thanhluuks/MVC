@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/main/java/controller/LoginServlet.java=UTF-8
+encoding//src/main/java/controller/SignupServlet.java=UTF-8
+encoding//src/main/java/model/Account.java=UTF-8
+encoding//src/main/java/model/Orders.java=UTF-8
+encoding//src/main/webapp/header.jsp=UTF-8
+encoding//src/main/webapp/index.jsp=UTF-8
+encoding//src/main/webapp/list.jsp=UTF-8
+encoding//src/main/webapp/login.jsp=UTF-8
